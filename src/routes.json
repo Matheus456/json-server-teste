@@ -1,0 +1,4 @@
+{
+    "/api/teste": "/teste",
+    "/api/:key": "/api?Key=:key" 
+}

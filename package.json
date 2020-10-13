@@ -1,0 +1,19 @@
+{
+  "name": "teste-json-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./src/server.js",
+    "json-server": "json-server --watch src/db.json --middlewares src/middlewares/changeId src/middlewares/tokenRequest --routes src/routes.json",
+    "generate-data": "node ./src/generate-data.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^5.1.0",
+    "faker-br": "^0.3.0",
+    "json-server": "^0.16.2"
+  }
+}
