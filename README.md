@@ -30,7 +30,7 @@
     - Retorna um objeto único com a chave especificada
 
 
-### Método POST/PUT
+### Método POST
 #### /api 
 ```json
     - Cria um novo objeto na api
@@ -54,6 +54,8 @@
         }
     }
 ````
+
+### Método PUT
 #### /api/:Key 
 ```json
     - Edita um objeto existente na api
