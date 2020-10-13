@@ -84,7 +84,7 @@
 
 ### tokenRequest
     
-    Solicita o envio do Header de Authorization com o valor de 'pix', para os métodos POST, PUT e DELETE 
+Solicita o envio do Header de Authorization com o valor de 'pix', para os métodos POST, PUT e DELETE 
 
 
 ## Observação
