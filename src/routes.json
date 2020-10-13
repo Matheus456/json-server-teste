@@ -1,4 +1,4 @@
 {
-    "/api/teste": "/teste",
-    "/api/:key": "/api?Key=:key" 
+    "/teste/rota": "/teste",
+    "/teste/rota/:key": "/teste/:key"
 }
