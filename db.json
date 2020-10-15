@@ -33,23 +33,6 @@
         "Type": "NATURAL_PERSON",
         "tradeName": "LuisReis"
       }
-    },
-    {
-      "KeyType": "CPF",
-      "Key": "22202242444",
-      "Owner": {
-        "Name": "RIVALDO Gaucho",
-        "TaxIdNumber": 0,
-        "Type": "NATURAL_PERSON",
-        "tradeName": "JanivanMacedo"
-      }
-    }
-  ],
-  "teste": [
-    {
-      "Key": "MR",
-      "nome": "Matheus",
-      "senha": "2123457897"
     }
   ]
 }
